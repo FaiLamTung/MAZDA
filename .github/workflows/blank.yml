@@ -1,0 +1,59 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "Rich Menu 1",
+  "chatBarText": "Menu",
+  "areas": [
+    {
+      "bounds": {
+        "x": 51,
+        "y": 64,
+        "width": 2373,
+        "height": 720
+      },
+      "action": {
+        "type": "message",
+        "text": "ติดตามสถานะ"
+      }
+    },
+    {
+      "bounds": {
+        "x": 42,
+        "y": 886,
+        "width": 729,
+        "height": 741
+      },
+      "action": {
+        "type": "message",
+        "text": "ฝ่ายขาย"
+      }
+    },
+    {
+      "bounds": {
+        "x": 898,
+        "y": 894,
+        "width": 704,
+        "height": 729
+      },
+      "action": {
+        "type": "message",
+        "text": "ศูนย์บริการ"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1712,
+        "y": 886,
+        "width": 729,
+        "height": 741
+      },
+      "action": {
+        "type": "message",
+        "text": "แนะนำ ร้องเรียน"
+      }
+    }
+  ]
+}
