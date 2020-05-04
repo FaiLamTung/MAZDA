@@ -1,0 +1,83 @@
+{
+  "line": {
+    "type": "imagemap",
+    "actions": [
+      {
+        "type": "message",
+        "text": "TestDriveMazda2",
+        "area": {
+          "height": 143,
+          "x": 0,
+          "width": 506,
+          "y": 235
+        }
+      },
+      {
+        "area": {
+          "x": 529,
+          "width": 499,
+          "y": 236,
+          "height": 144
+        },
+        "type": "message",
+        "text": "TestDriveMazda3"
+      },
+      {
+        "area": {
+          "y": 449,
+          "height": 135,
+          "x": 12,
+          "width": 495
+        },
+        "type": "message",
+        "text": "TestDriveMazdaCX-3"
+      },
+      {
+        "type": "message",
+        "text": "TestDriveMazdaCX-30",
+        "area": {
+          "y": 456,
+          "height": 121,
+          "x": 532,
+          "width": 495
+        }
+      },
+      {
+        "type": "message",
+        "text": "TestDriveMazdaCX-8",
+        "area": {
+          "y": 643,
+          "height": 132,
+          "x": 524,
+          "width": 504
+        }
+      },
+      {
+        "type": "message",
+        "text": "TestDriveMazdaCX-5",
+        "area": {
+          "y": 649,
+          "height": 139,
+          "x": 12,
+          "width": 488
+        }
+      },
+      {
+        "area": {
+          "y": 820,
+          "height": 184,
+          "x": 48,
+          "width": 897
+        },
+        "type": "message",
+        "text": "TestDriveMazdaBT-50"
+      }
+    ],
+    "baseUrl": "https://www.mazdaborom.com/images/editor/model-v.2_.png?w=auto",
+    "baseSize": {
+      "width": 1040,
+      "height": 1040
+    },
+    "altText": "This is an imagemap"
+  }
+}
